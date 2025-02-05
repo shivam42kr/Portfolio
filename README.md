@@ -24,12 +24,12 @@
     </nav>
   </div>
 </header>
-
+https://www.linkedin.com/in/shivam-jayaswal/
 <section id="about" class="section">
   <div class="container">
     <h2>About Me</h2>
     <p>Email: shivamjaiswal991899@gmail.com <br>
-    LinkedIn: <a href="linkedin.com/in/shivam-jayaswal">linkedin.com/in/shivam-jayaswal</a> <br>
+    LinkedIn: <a href="linkedin.com/in/shivam-jayaswal/">linkedin.com/in/shivam-jayaswal/</a> <br>
     Mobile: +916392168756 <br>
     GitHub: <a href="https://github.com/shivam42kr">github.com/shivam42kr</a> </p>
     <h3>Education</h3>
