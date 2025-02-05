@@ -24,7 +24,7 @@
     </nav>
   </div>
 </header>
-https://www.linkedin.com/in/shivam-jayaswal/
+
 <section id="about" class="section">
   <div class="container">
     <h2>About Me</h2>
