@@ -1,4 +1,4 @@
-# Portfoliu
+# Portfolio
 # HTML Code
 
 <!DOCTYPE html>
@@ -6,7 +6,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Babban Yadav - Portfolio</title>
+<title>Shivam Jayaswal - Portfolio</title>
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -34,7 +34,7 @@
     GitHub: <a href="https://github.com/shivam42kr">github.com/shivam42kr</a> </p>
     <h3>Education</h3>
     <p>SR INSTITUTE OF MANAGEMENT AND TECHNOLOGY LUCKNOW, Lucknow, India <br>
-    Bachelor of Technology - Information Technology; GPA: 8 <br>
+    Bachelor of Technology - Information Technology; GPA: 7.8 <br>
     July 2020 - June 2024 <br>
     Courses: Operating Systems, Data Structures, Analysis Of Algorithms, Artificial Intelligence, Machine Learning, Networking, Databases</p>
   </div>
